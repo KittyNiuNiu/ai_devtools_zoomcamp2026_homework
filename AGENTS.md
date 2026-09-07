@@ -3,6 +3,10 @@
 Django app for shared household chores. Scope in `_docs/plan.md`, design in
 `_docs/architecture.md`, backlog in `_docs/tasks.md` (task N = GitHub issue #N).
 
+## Documents
+
+- `_docs/process.md` - how work is organized
+
 ## Commands
 
 - `docker compose up -d db` - Postgres; must be running before tests
